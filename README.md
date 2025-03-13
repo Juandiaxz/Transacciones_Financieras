@@ -11,7 +11,7 @@
 ## ⚙️ Instalación y Uso  
 ```bash
 # Clonar el repositorio
-git clone https://github.com/Diaxz/Transferencias-Bancarias.git
+git clone https://github.com/Juandiaxz/Transacciones_Financieras.git
 cd Transferencias-Bancarias
 
 # Instalar dependencias
